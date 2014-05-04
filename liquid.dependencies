@@ -1,5 +1,6 @@
 [
  {
-
+   "repository": "android_device_huawei_viva",
+   "target_path": "device/huawei/viva"
  }
 ]
